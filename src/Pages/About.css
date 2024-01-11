@@ -1,0 +1,116 @@
+
+.a-container{
+    display: flex;
+    flex-wrap: wrap;
+    color: #302E4D;
+    gap: 25px;
+    margin-top: 40px;
+}
+.a-section h1{
+    border-bottom: 5px solid #ec1839;
+    width: 145px;
+}
+.a-section h2 span{
+    color: #ec1839;
+}
+
+.a-section{
+    /* display: flex;
+    flex-wrap: wrap; */
+    gap: 20px;
+}
+
+.social-container{
+    display: flex;
+    margin-top: 30px;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.social-item-container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.social-item{
+   
+    display: flex;
+    gap: 10px;
+     margin: 10px;
+         
+}
+.contact-me{
+    margin-top: 25px;
+    width: 150px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 35px;
+    cursor: pointer;
+    background: #ec1839;
+    color: #FDF9FF;
+    border: none;
+}
+.contact-me:hover{
+    width: 152px;
+    height: 42px;
+}
+
+.skills{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 10px;
+}
+.ee{
+    display: flex;
+    flex-direction: row;
+    gap: 370px;
+    margin-top: 60px;
+}
+.education_experience{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.education{
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    padding: 30PX;
+    gap: 70px;
+    background: #FDF9FF;
+    border-radius: 20px;
+    box-shadow: #302E4D;
+}
+.Edu_list{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.experience{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.ashvik{
+    background: #FDF9FF;
+    width: 420px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.newton{
+    background: #FDF9FF;
+    width: 420px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.date{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}

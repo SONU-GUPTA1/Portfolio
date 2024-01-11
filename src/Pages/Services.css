@@ -1,0 +1,42 @@
+.service_sec{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25PX;
+    margin-top: 50px;
+    box-shadow: 30px #ec1839;
+}
+.heading h1{
+    border-bottom: 5px solid #ec1839;
+    width: 50px;
+    font-size: 40px;
+    margin-top: 25px;
+}
+.Icon{
+    border: 1px;
+    border-radius: 50%;
+}
+.Icon:hover{
+    background: #ec1839;
+    color: #FDF9FF;
+    /* font-size: 1.2em; */
+    
+}
+.service_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    background: #FDF9FF;
+    gap: 20px;
+    border-radius: 20PX;
+    padding: 20px;
+}
+.icon{
+    color: #ec1839;
+}
+/* .icon:hover{
+    size: 110px;
+    cursor: pointer;
+} */
